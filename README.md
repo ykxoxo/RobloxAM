@@ -32,6 +32,3 @@ after you launch bloxstarp
 4. now you can play with more than 1 account at the same time
 ---
 
-## Disclaimer
-
-Use this tool responsibly. Automating login may violate Roblox's terms of service. Use at your own risk.
