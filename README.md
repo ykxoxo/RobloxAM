@@ -15,11 +15,11 @@ This tool allows you to manage multiple Roblox accounts, log in automatically, a
 
 ## Recommended Usage
 
-For the best experience, it is **recommended to run Roblox games using [Bloxstrap](https://github.com/bloxstrap/bloxstrap/releases/latest)**.
+For the best experience, it is **recommended to run Roblox games using [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/releases/tag/v2.9.0)**.
 
 Bloxstrap is a Roblox client launcher that improves performance and provides better account management. Download it from the official GitHub releases page:
 
-[Bloxstrap Latest Release](https://github.com/bloxstrap/bloxstrap/releases/latest)
+[Bloxstrap Latest Release](https://github.com/bloxstraplabs/bloxstrap/releases/tag/v2.9.0)
 
 ---
 
