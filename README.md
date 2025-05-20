@@ -31,4 +31,8 @@ after you launch bloxstarp
 3. and enable Allow multi-instance launching
 4. now you can play with more than 1 account at the same time
 ---
+## Disclaimer
+
+Use this tool responsibly. Automating login may violate Roblox's terms of service. Use at your own risk.
+
 
