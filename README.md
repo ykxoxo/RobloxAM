@@ -18,19 +18,46 @@ A GUI-based Python application that allows you to manage, log in to, and create 
   - Manual captcha solving
 
 ---
+## 🚀 How to Use 
+1.The GUI will appear. You can:
 
+-Add Account: Enter existing username and password to store.
+
+-Remove Account: Select from the list and delete.
+
+-Create New Account: Fill details, the browser will open for manual captcha.
+
+-Launch Roblox: Logs in to Roblox with the selected account.
+
+2.When creating a new account:
+
+-You must manually solve the captcha.
+
+-Once the account is successfully created, it will be saved automatically.
+
+
+
+---
+##⚠️ Risks & Warnings
+❗ Use this tool responsibly and for personal use .
+
+Creating many accounts may result in temporary IP bans.
+
+Playwright have a stealth plugin it reduce automation detection by websites. 
+
+This tool does NOT bypass captchas — they must be solved manually.
+
+Do not use for botting, abuse, or Terms of Service violations.
+
+
+
+
+---
 ## 🖥️ Requirements
 
 - Python 3.8 or newer  
 - Google Chrome installed
-- Compatible ChromeDriver (must match your Chrome version)
-
-### Python dependencies:
-
-Install them using pip:
-
-```bash
-pip install selenium
+---
 
 ## Recommended Usage
 
@@ -52,6 +79,6 @@ after you launch bloxstarp
 ---
 ## Disclaimer
 
-Use this tool responsibly. Automating login may violate Roblox's terms of service. Use at your own risk.
+Use this tool responsibly. Creating alot of accounts on the same day in the same device may violate Roblox's terms of service. Use at your own risk.
 
 
